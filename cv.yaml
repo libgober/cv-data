@@ -157,7 +157,7 @@ grants:
     date_end: "2026"
     organization: Institute for Policy Research, Northwestern University
     name: Summer Undergraduate RA Award
-    amount: "$3,150
+    amount: "$3,150"
     source: internal
 
   - date_start: "2022"
@@ -166,7 +166,7 @@ grants:
     name: Unpacking Compound Treatments in Email Audit Experiments
     amount: "$403,882"
     source: external
-
+    
   - date_start: "2024"
     date_end: "2025"
     organization: Northwestern Undergraduate RA Program Committee
@@ -534,7 +534,7 @@ presentations:
 
     - title: "What Was the Persuasive Effect of Televised Campaign Advertising in the 2016 Presidential Election"
       date: "2025-06-19"
-      host: "Copenhagen Money in Politics Conference, Copenhagen Business School
+      host: "Copenhagen Money in Politics Conference, Copenhagen Business School"
 
     - date_start: "2024-05-22"
       date_end: "2024-05-24"
@@ -643,7 +643,7 @@ presentations:
       host: "Center for the Study of Democratic Politics, Princeton University"
 
     - date: "2026-02-23"
-      title: "Financial Data in Political Science Workshop
+      title: "Financial Data in Political Science Workshop"
       host: "Center for the Study of Democratic Politics, Princeton University"
 
     - date: "2022-10-10"
