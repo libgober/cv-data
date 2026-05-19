@@ -29,25 +29,35 @@ advising:
         date_end: "2027"
       
     ras:
+      - name: "Suditi Chala"
+        institution: "Northwestern University"
+        date_start: "2025"
+        date_end: "2025"
+
       - name: "Aldiyar Orazalin"
         institution: "Northwestern University"
         date_start: "2025"
+        date_end: "2025"
 
       - name: "Jinhe Zhao"
         institution: "Northwestern University"
         date_start: "2025"
+        date_end: "2025"
 
       - name: "Enzo Banal"
         institution: "Northwestern University"
         date_start: "2024"
+        date_end: "2024"
 
       - name: "Neil Arora"
         institution: "Northwestern University"
         date_start: "2024"
+        date_end: "2025"
 
       - name: "Jesse Chen"
         institution: "Northwestern University"
         date_start: "2024"
+        date_end: "2025"
 
       - name: "Mathieu Rojas Egoavil"
         institution: "Northwestern University"
@@ -143,7 +153,13 @@ education:
     details: "Viola Bower Award, full-tuition scholarship"
     
 grants:
-  
+  - date_start: "2026"
+    date_end: "2026"
+    organization: Institute for Policy Research, Northwestern University
+    name: Summer Undergraduate RA Award
+    amount: "$3,150
+    source: internal
+
   - date_start: "2022"
     date_end: "2025"
     organization: National Science Foundation
@@ -159,9 +175,9 @@ grants:
 
   - date_start: "2024"
     date_end: "2024"
-    organization: Institute for Policy Research
+    organization: Institute for Policy Research, Northwestern University
     name: Summer Undergraduate RA Award
-    amount: "$6,300"
+    amount: "$3,100"
     source: internal
 
   - date_start: "2024"
@@ -429,6 +445,9 @@ presentations:
       host: "University of Texas, Austin, McCombs School of Business"
     
   workshops:
+    - title: "Governance in Organizations and Institutions Workshop"
+      date: "20260-11-06"
+      host: "Center for Advanced Study in the Behavioral Sciences, Stanford University"
 
     - title: "American Political Economy: Foundations, Focuses, Frontiers"
       date_start: "2025-04-25"
@@ -508,6 +527,14 @@ presentations:
     - date: "2026-04-17"
       title: "Conference on Identity and Inequality"
       host: "Princeton University"
+
+    - title: "Legitimacy Brokers"
+      date: "2025-06-17"
+      host: "Conference on Politics and Law in the Administrative State, Yale Law School and Yale ISPS"
+
+    - title: "What Was the Persuasive Effect of Televised Campaign Advertising in the 2016 Presidential Election"
+      date: "2025-06-19"
+      host: "Copenhagen Money in Politics Conference, Copenhagen Business School
 
     - date_start: "2024-05-22"
       date_end: "2024-05-24"
@@ -611,6 +638,14 @@ presentations:
       host: "American Law and Economics Association (ALEA) Annual Meeting"
 
   department:
+    - date: "2025-09-04"
+      title: "An Overview of My Research"
+      host: "Center for the Study of Democratic Politics, Princeton University"
+
+    - date: "2026-02-23"
+      title: "Financial Data in Political Science Workshop
+      host: "Center for the Study of Democratic Politics, Princeton University"
+
     - date: "2022-10-10"
       title: "Lawyers as Lobbyists: Regulatory Advocacy in American Finance"
       host: "Institute for Policy Research Colloquium, Northwestern University"
@@ -704,6 +739,11 @@ publications:
 service:
   # ongoing: true is allowed
   field:
+    - date_start: "2025"
+      ongoing: true
+      role: "Advisory Board Member"
+      organization: "American Political Economy Exchange (APEX), Yale University" 
+
     - date_start: "2024"
       date_end: "2024"
       role: "Area Organizer"
