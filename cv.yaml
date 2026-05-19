@@ -1,0 +1,840 @@
+advising:
+  graduate: 
+    current_committees:
+      - name: "Joshua Corona"
+        website: "https://joshuacorona.com/"
+        institution: "Northwestern University"
+      - name: "Arne Holverscheid"
+        institution: "Northwestern University"
+        website: "https://arneholverscheid.com/"
+      - name: "Alisher Juzgenbayev"
+        website: "https://alisher.site/"
+        institution:  "Northwestern University"
+      
+    former_committees:
+      - name: "Andrew Saab"
+        website: "https://andrewsaab.github.io/"
+        phd_institution: "Northwestern University"
+        year: "2025"
+        placements:
+        - title: "Postdoctoral Fellow"
+          employer: "Center for Science of Science & Innovation, Northwestern University"
+    
+  
+  undergraduate:
+    theses: 
+      - name: "Mackenzie Tyson"
+        institution: "Northwestern University"
+        date_start: "2026"
+        date_end: "2027"
+      
+    ras:
+      - name: "Aldiyar Orazalin"
+        institution: "Northwestern University"
+        date_start: "2025"
+
+      - name: "Jinhe Zhao"
+        institution: "Northwestern University"
+        date_start: "2025"
+
+      - name: "Enzo Banal"
+        institution: "Northwestern University"
+        date_start: "2024"
+
+      - name: "Neil Arora"
+        institution: "Northwestern University"
+        date_start: "2024"
+
+      - name: "Jesse Chen"
+        institution: "Northwestern University"
+        date_start: "2024"
+
+      - name: "Mathieu Rojas Egoavil"
+        institution: "Northwestern University"
+        date_start: "2023"
+        date_end: "2024"
+
+      - name: "Jamie Gall"
+        institution: "Northwestern University"
+        date_start: "2023"
+        date_end: "2024"
+
+      - name: "Rick Brown"
+        institution: "Northwestern University"
+        date_start: "2022"
+        date_end: "2023"
+
+      - name: "Kurtis Brian Nelson"
+        institution: "Northwestern University"
+        date_start: "2022"
+        date_end: "2023"
+
+    courses:
+      - name: "Mathieu Rojas Egoavil"
+        institution: "Northwestern University"
+        date: "Winter 2025"
+  
+appointments:
+  - date_start: 2022
+    date_end: null
+    institution: Northwestern University
+    affiliations:
+      - title: Assistant Professor
+        dept: Department of Political Science
+      - title: Assistant Professor
+        qualifier: by courtesy
+        dept: Pritzker School of Law
+      - title: Faculty Fellow
+        dept: Institute for Policy Research
+
+  - date_start: 2022
+    date_end: null
+    date_display: 2022--
+    institution: Yale Law School
+    affiliations:
+      - title: Senior Research Scholar
+
+  - date_start: 2025
+    date_end: 2026
+    institution: Princeton University
+    affiliations:
+      - title: Visiting Research Scholar
+        dept: School of Public and International Affairs
+      - title: Fellow
+        dept: Center for the Study of Democratic Politics
+  
+  - date_start: 2020
+    date_end: 2022
+    institution: University of California, San Diego
+    affiliations:
+      - title: Assistant Professor
+        dept: School of Global Policy and Strategy
+
+  - date_start: 2018
+    date_end: 2020
+    institution: Yale University
+    affiliations:
+      - title: Postdoctoral Associate
+        dept: Department of Political Science
+
+education:
+  - degree: Ph.D.
+    field: Government
+    institution: Harvard University
+    year: 2018
+    details: "Dissertation Committee: Daniel Carpenter (Chair), Kenneth Shepsle, Jon Rogowski"
+
+  - degree: M.A.
+    field: Statistics
+    institution: Harvard University
+    year: 2017
+
+  - degree: J.D.
+    institution: University of Michigan Law School
+    year: 2015
+    honors: cum laude
+    details: "Dean's Scholarship"
+
+  - degree: B.A.
+    field: Mathematics and Philosophy
+    institution: University of Chicago
+    year: 2010
+    honors: with honors
+    details: "Viola Bower Award, full-tuition scholarship"
+    
+grants:
+  
+  - date_start: "2022"
+    date_end: "2025"
+    organization: National Science Foundation
+    name: Unpacking Compound Treatments in Email Audit Experiments
+    amount: "$403,882"
+    source: external
+
+  - date_start: "2024"
+    date_end: "2025"
+    organization: Northwestern Undergraduate RA Program Committee
+    amount: "$3,250"
+    source: internal
+
+  - date_start: "2024"
+    date_end: "2024"
+    organization: Institute for Policy Research
+    name: Summer Undergraduate RA Award
+    amount: "$6,300"
+    source: internal
+
+  - date_start: "2024"
+    date_end: "2024"
+    organization: Northwestern University
+    name: Dependent Care Professional Travel Grant
+    amount: "$1,345"
+    source: internal
+
+  - date_start: "2024"
+    date_end: "2024"
+    organization: Northwestern, Department of Political Science
+    name: Farrell Fellowship Program
+    amount: "$8,000"
+    source: internal
+
+  - date_start: "2024"
+    date_end: "2024"
+    organization: Buffett Institute for Global Affairs
+    name: Global Collaboration Grant
+    amount: "$2,500"
+    source: internal
+
+  - date_start: "2023"
+    date_end: "2023"
+    organization: Institute for Policy Research
+    name: Graduate Student RA Award
+    amount: "$41,736"
+    source: internal
+
+  - date_start: "2023"
+    date_end: "2023"
+    organization: Institute for Policy Research
+    name: Summer Undergraduate RA Award
+    amount: "$5,950"
+    source: internal
+
+  - date_start: "2023"
+    date_end: "2023"
+    organization: Northwestern, Department of Political Science
+    name: Farrell Fellowship Program
+    amount: "$7,500"
+    source: internal
+
+  - date_start: "2025"
+    date_end: "2026"
+    organization: Center for the Study of Democratic Politics
+    name: Visiting Research Fellowship
+    amount: "$104,000"
+    currency: USD
+    source: external
+
+  - date_start: "2025"
+    date_end: "2026"
+    organization: Alexander von Humboldt Foundation
+    name: Research Fellowship for Experienced Researchers
+    amount: "€25,600"
+    source: external
+
+  - date_start: "2024"
+    date_end: "2024"
+    organization: Stanford CASBS
+    name: Fellowship to attend Summer Institute on Organizations and Their Effectiveness 
+    source: external
+
+  - date_start: "2016"
+    date_end: "2018"
+    organization: Harvard Kennedy School
+    name: Stone PhD Scholar in Inequality and Wealth Concentration
+    source: internal
+
+  - date_start: "2015"
+    date_end: "2016"
+    organization: Harvard Law School
+    name: Terence M. Considine Fellowship in Law and Economics
+    source: internal
+    
+invited_talks:
+  - date: "2026-03-26"
+    title: "Who Governs the Association?"
+    host: "Princeton University, Department of Politics"
+
+  - date: "2025-10-23"
+    title: "White Shoes, Hidden Hands"
+    host: "UC Berkeley, Department of Political Science"
+
+  - date: "2025-02-13"
+    title: "White Shoes, Hidden Hands"
+    host: "Princeton University, Department of Politics"
+
+  - date: "2025-01-15"
+    title: "White Shoes, Hidden Hands"
+    host: "Berkeley Law School"
+
+  - date: "2024-02-08"
+    title: "White Shoes, Hidden Hands"
+    host: "Emory University, Department of Political Science"
+
+  - date: "2023-02-01"
+    title: "Lawyers as Lobbyists"
+    host: "Yale University, Department of Political Science"
+
+  - date: "2022-03-24"
+    title: "Making Regulators Reasonable"
+    host: "University of Michigan Law School"
+
+  - date: "2021-12-15"
+    title: "Making Regulators Reasonable"
+    host: "Hebrew University, Department of Political Science"
+
+  - date: "2021-12-13"
+    title: "Making Regulators Reasonable"
+    host: "Tel Aviv University, Department of Political Science"
+
+  - date: "2021-11-02"
+    title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+    host: "Northwestern University, Department of Political Science"
+
+  - date: "2020-01-24"
+    title: "Agency Failure and Individual Accountability"
+    host: "Georgetown University, Department of Government"
+
+  - date: "2020-01-08"
+    title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+    host: "University of Texas, Austin, McCombs School of Business"
+
+  - date: "2019-12-06"
+    title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+    host: "Stanford University, Hoover Institution"
+
+  - date: "2019-11-13"
+    title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+    host: "Vanderbilt University, Department of Political Science"
+
+  - date: "2019-11-06"
+    title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+    host: "University of California, San Diego, School of Global Policy and Strategy"
+
+  - date: "2019-11-05"
+    title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+    host: "Harvard Law School"
+
+  - date: "2019-09-19"
+    title: "Agency Failure and Individual Accountability"
+    host: "George Mason Law School"
+
+  - date: "2019-09-17"
+    title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+    host: "Washington University in St. Louis, Department of Political Science"
+
+  - date: "2019-02-07"
+    title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+    host: "Berkeley Law School, Jurisprudence and Social Policy Program"
+
+  - date: "2019-11-05"
+    title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+    host: "Harvard Business School, Business Government and International Economy Unit"
+
+  - date: "2019-08-09"
+    title: "The Gains from Lobbying Financial Regulators"
+    host: "Administrative Conference of the United States"
+
+  - date: "2018-03-23"
+    title: "What’s at Stake in Rulemaking? Financial Market Evidence for Banks’ Influence on Administrative Agencies"
+    host: "University of Texas, Austin, McCombs School of Business"
+    
+peer_review:
+  - "American Political Science Review"
+  - "Journal of Public Administration Research and Theory"
+  - "Journal of Politics"
+  - "American Journal of Political Science"
+  - "Politics & Gender"
+  - "Regulation & Governance"
+  - "Israeli Science Foundation (ISF)"
+  
+presentations:
+  
+  presentations:
+    - date: "2026-03-26"
+      title: "Who Governs the Association?"
+      host: "Princeton University, Department of Politics"
+
+    - date: "2025-10-23"
+      title: "White Shoes, Hidden Hands"
+      host: "UC Berkeley, Department of Political Science"
+
+    - date: "2025-02-13"
+      title: "White Shoes, Hidden Hands"
+      host: "Princeton University, Department of Politics"
+
+    - date: "2025-01-15"
+      title: "White Shoes, Hidden Hands"
+      host: "Berkeley Law School"
+
+    - date: "2024-02-08"
+      title: "White Shoes, Hidden Hands"
+      host: "Emory University, Department of Political Science"
+
+    - date: "2023-02-01"
+      title: "Lawyers as Lobbyists"
+      host: "Yale University, Department of Political Science"
+
+    - date: "2022-03-24"
+      title: "Making Regulators Reasonable"
+      host: "University of Michigan Law School"
+
+    - date: "2021-12-15"
+      title: "Making Regulators Reasonable"
+      host: "Hebrew University, Department of Political Science"
+
+    - date: "2021-12-13"
+      title: "Making Regulators Reasonable"
+      host: "Tel Aviv University, Department of Political Science"
+
+    - date: "2021-11-02"
+      title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+      host: "Northwestern University, Department of Political Science"
+
+    - date: "2020-01-24"
+      title: "Agency Failure and Individual Accountability"
+      host: "Georgetown University, Department of Government"
+
+    - date: "2020-01-08"
+      title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+      host: "University of Texas, Austin, McCombs School of Business"
+
+    - date: "2019-12-06"
+      title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+      host: "Stanford University, Hoover Institution"
+
+    - date: "2019-11-13"
+      title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+      host: "Vanderbilt University, Department of Political Science"
+
+    - date: "2019-11-06"
+      title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+      host: "University of California, San Diego, School of Global Policy and Strategy"
+
+    - date: "2019-11-05"
+      title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+      host: "Harvard Law School"
+
+    - date: "2019-09-19"
+      title: "Agency Failure and Individual Accountability"
+      host: "George Mason Law School"
+
+    - date: "2019-09-17"
+      title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+      host: "Washington University in St. Louis, Department of Political Science"
+
+    - date: "2019-02-07"
+      title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+      host: "Berkeley Law School, Jurisprudence and Social Policy Program"
+
+    - date: "2019-11-05"
+      title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+      host: "Harvard Business School, Business Government and International Economy Unit"
+
+    - date: "2019-08-09"
+      title: "The Gains from Lobbying Financial Regulators"
+      host: "Administrative Conference of the United States"
+
+    - date: "2018-03-23"
+      title: "What’s at Stake in Rulemaking? Financial Market Evidence for Banks’ Influence on Administrative Agencies"
+      host: "University of Texas, Austin, McCombs School of Business"
+    
+  workshops:
+
+    - title: "American Political Economy: Foundations, Focuses, Frontiers"
+      date_start: "2025-04-25"
+      date_end: "2025-04-26"
+      host: "Institute for Social and Policy Studies, Yale University"
+    
+    - title: "Summer Institute on Organizations and their Effectiveness"
+      host: "Center for Advanded Study in Behavior Sciences, Stanford University"
+      date_start: "2024-07-07"
+      date_end: "2024-07-20"
+    
+    - title: "The Politics of Citizenship, Central Banks, and Consumer Finance"
+      host: "Nuffield College, Oxford"
+      date_start: "2024-05-23"
+      date_end: "2024-05-24"
+    
+  other:
+    - date: "2026-03-27"
+      title: " Conference on Local Power and Political Economy "
+      host: "Center for Study of Democratic Politics, Princeton"
+      role: "Discussant"
+    - date: "2023-04-14"
+      title: "Interest Groups in the American Context"
+      host: "Midwest Political Science Association (MPSA) Annual Conference"
+      role: "Discussant"
+
+    - date: "2021-10-03"
+      title: "Lobbyists and Lobbying, Strategies and Goals"
+      host: "American Political Science Association (APSA) Annual Meeting"
+      role: "Discussant"
+
+    - date: "2021-10-01"
+      title: "Politics of Rulemaking in the Administrative State"
+      host: "American Political Science Association (APSA) Annual Meeting"
+      role: "Discussant"
+
+    - date: "2021-09-29"
+      title: "Legislative Productivity in the US"
+      host: "American Political Science Association (APSA) Annual Meeting"
+      role: "Chair and Discussant"
+
+    - date: "2021-09-30"
+      title: "Separation of Powers and Interbranch Relationships"
+      host: "American Political Science Association (APSA) Annual Meeting"
+      role: "Chair and Discussant"
+
+    - date: "2021-09-30"
+      title: "Advances in Law Enforcement Policy Research"
+      host: "American Political Science Association (APSA) Annual Meeting"
+      role: "Chair"
+
+  organizing: 
+
+   - title: "Workshop on Business Power and Politics"
+     host: "Department of Political Science, Northwestern University"
+     date: "2026-10-23"
+     role: "Co-organizer"
+   
+   - title: "White Shoes Hidden Hands: Workshop"
+     host: "Department of Political Science, Northwestern University"
+     date: "2026-01-30"
+     role: "Organizer"
+
+   - title: "White Shoes Hidden Hands: Workshop"
+     host: "Center for Study of Democratic Politics, Princeton University"
+     date: "2025-10-03"
+     role: "Organizer"
+
+   - title: "Yale Conference on Politics and Law in the Administrative State"
+     host: "Institution for Social and Policy Study and the Law School, Yale Univesity"
+     date_start: "2025-06-17"
+     date_end: "2025-06-18"
+     role: "Co-organizer"
+   
+    
+  conferences:
+    - date: "2026-04-17"
+      title: "Conference on Identity and Inequality"
+      host: "Princeton University"
+
+    - date_start: "2024-05-22"
+      date_end: "2024-05-24"
+      title: "American Political Economy Summer School"
+      host: "UC Berkeley"
+
+    - date: "2023-05-11"
+      title: "Conference on Regulatory Reform"
+      host: "Stanford Law School"
+
+    - date: "2023-05-05"
+      title: "Interest Group Workshop"
+      host: "Princeton University"
+
+    - date: "2023-04-14"
+      title: "Who Governs the Association"
+      host: "Midwest Political Science Association (MPSA) Annual Conference"
+
+    - date: "2023-04-13"
+      title: "Grouptalk"
+      host: "Midwest Political Science Association (MPSA) Annual Conference"
+
+    - date: "2023-03-30"
+      title: "Access to Justice (A2J) Roundtable"
+      host: "University of South Carolina Law School"
+
+    - date: "2022-10-24"
+      title: "Bureaucratic Information Acquisition"
+      host: "Executive Politics at Michigan"
+
+    - date: "2022-09-14"
+      title: "Grouptalk"
+      host: "APSA Pre-Conference: Frontiers in Money in Politics Research"
+
+    - date: "2022-06-16"
+      title: "Ex Post Lobbying and the Dynamics of Legislative Attention"
+      host: "Copenhagen Business School Money in Politics Conference"
+
+    - date: "2021-10-02"
+      title: "The Politics of Place: Evidence from Refugees to the US"
+      host: "American Political Science Association (APSA) Annual Meeting"
+
+    - date: "2021-10-01"
+      title: "Ex Post Lobbying and the Dynamics of Legislative Attention"
+      host: "American Political Science Association (APSA) Annual Meeting"
+
+    - date: "2021-09-30"
+      title: "Participatory Inequality and Rulemaking: Evidence from Financial Regulation"
+      host: "American Political Science Association (APSA) Annual Meeting"
+
+    - date: "2021-07-01"
+      title: "Lawyers as Lobbyists"
+      host: "American Political Economy Summer School"
+
+    - date: "2020-09-10"
+      title: "One Voice: The Role of Organization in Lobbying"
+      host: "American Political Science Association (APSA) Annual Meeting"
+
+    - date: "2019-12-06"
+      title: "Agency Failure and Individual Accountability"
+      host: "Bureaucracy and Presidential Administration: Expertise and Accountability in Constitutional Government, George Mason Law School"
+
+    - date: "2019-05-17"
+      title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+      host: "American Law and Economics Association (ALEA) Annual Conference"
+
+    - date: "2019-01-18"
+      title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+      host: "Southern Political Science Association (SPSA) Annual Conference"
+
+    - date: "2018-04-07"
+      title: "What Public Comments During Rulemaking Do (and Why)"
+      host: "Midwest Political Science Association (MPSA) Annual Conference"
+
+    - date: "2018-04-05"
+      title: "The Price of Votes"
+      host: "Midwest Political Science Association (MPSA) Annual Conference"
+
+    - date: "2018-01-05"
+      title: "What Public Comments During Rulemaking Do (and Why)"
+      host: "Southern Political Science Association (SPSA) Annual Conference"
+
+    - date: "2018-01-04"
+      title: "Participation, Inequality, and Rational Responsiveness"
+      host: "Southern Political Science Association (SPSA) Annual Conference"
+
+    - date: "2017-12-08"
+      title: "Lobbying with Lawyers: Financial Market Evidence for Banks’ Influence on Rulemaking"
+      host: "Radcliffe Institute for Advanced Study"
+
+    - date: "2017-04-06"
+      title: "Equities and Inequities in Financial Rulemaking"
+      host: "Midwest Political Science Association (MPSA) Annual Conference"
+
+    - date: "2017-03-04"
+      title: "Lawyering and Lobbying: Why Banks Shape Rules"
+      host: "University of Chicago Booth Business School"
+
+    - date: "2015-05-16"
+      title: "Accident Liability in Imperfectly Competitive Markets"
+      host: "American Law and Economics Association (ALEA) Annual Meeting"
+
+  department:
+    - date: "2022-10-10"
+      title: "Lawyers as Lobbyists: Regulatory Advocacy in American Finance"
+      host: "Institute for Policy Research Colloquium, Northwestern University"
+
+    - date: "2020-10-28"
+      title: "Does Electoral Politics Explain the Distribution of CDC Test Kits? Evidence from FOIA"
+      host: "University of California, San Diego, School of Global Policy and Strategy Junior Faculty Brownbag"
+
+    - date: "2018-10-29"
+      title: "Meetings, Comments, and the Distributive Politics of Administrative Policymaking"
+      host: "Harvard University, Political Economy Workshop"
+
+    - date: "2018-02-13"
+      title: "What Public Comments During Rulemaking Do (and Why)"
+      host: "Harvard University, American Politics Research Workshop"
+
+    - date: "2017-03-10"
+      title: "Getting a Lawyer While Black: A Field Experiment"
+      host: "Harvard University, Working Group in Political Psychology"
+
+    - date: "2017-02-07"
+      title: "Lawyering and Lobbying: Why Banks Shape Rules"
+      host: "Harvard University, American Politics Research Workshop"
+
+    - date: "2016-09-09"
+      title: "Getting a Lawyer While Black: A Field Experiment"
+      host: "Harvard University, Harvard Experiments Working Group"
+
+    - date: "2016-03-03"
+      title: "Getting a Lawyer While Black: A Field Experiment"
+      host: "Harvard Law School, Law and Economics Seminar"
+  
+publications:
+  
+  peer:
+    - key: pashley2025audit
+      status: "Forthcoming"
+    - key: HolverscheidLibgoberPouliot2024
+      status: "Accepted"
+    - key: fernandesPartisanRhetoricInstitutional2025
+    - key: Omari2025FederalProcurementDataset
+    - key: Libgober_Jerzak_2025
+    - key: libgoberLawyersLobbyistsRegulatory2024
+    - key: chenAdministrativeProceduresFix2024
+    - key: libgoberComprehensiveDatasetFederal2024
+    - key: ravichandranOptimalAllocationSample2024
+    - key: libgoberWhatPublicComments2023a
+    - key: Abi-Hassan2023
+    - key: libgober2023identifying
+    - key: libgoberStrategicProposalsEndogenous2020
+    - key: libgoberMeetingsCommentsDistributive2020
+    - key: Carpenter2020
+    
+  working:
+    - title: "Group Talk"
+      coauthors: 
+        - "Chris Li"
+      link: 
+      notes: 
+    - title: "Who Governs the Association"
+      coauthors: 
+        - "Benjamin Egerod"
+        - "Sebastian Thieme"
+      link: 
+      notes: 
+    - title: "Backlash Against Repression: Evidence from Refugees Fleeing the Former Soviet Bloc"
+      coauthors: 
+        - "Valentin Bolotnyy"
+        - "Mayya Komisarchik"
+      link: 
+      notes: 
+    - title: "Inequality in Administrative Democracy: Large-Sample Evidence from American Financial Regulation "
+      coauthors:
+        - "Daniel Carpenter"
+        - "Devin Judge-Lord"
+        - "Chris Kenny"
+        - "Steve Rashin"
+        - "Jacob Waggoner"
+        - "Susan Webb Yackee"
+      link: 
+      notes: "Winner, Herbert Kaufman Award for best paper presented at the 2021 APSA Annual Conference."
+  
+  other:
+    - key: libgoberPolicyPoliticsPayment2026
+    - key: libgoberRacePoliticalEconomy2025 
+    - key: carpenterAdministrativePoliticsClear2023
+    - key: Libgober2019
+    - key: Carpenter2018
+    - key: Libgober2015a
+    
+service:
+  # ongoing: true is allowed
+  field:
+    - date_start: "2024"
+      date_end: "2024"
+      role: "Area Organizer"
+      unit: "Property, Environmental and Administrative Law"
+      organization: "American Law and Economics Association (ALEA)"
+
+    - date_start: "2024"
+      date_end: "2024"
+      role: "Program Director"
+      organization: "Midwest Public Administration Caucus (MPAC), Midwest Political Science Association (MPSA)"
+
+  departmental:
+    - institution: "Northwestern University"
+      items:
+        - date_start: "2022"
+          date_end: "2025"
+          role: "Co-organizer"
+          organization: "American Politics Speaker Series"
+
+    - institution: "University of California San Diego"
+      items:
+        - date_start: "2021"
+          date_end: "2022"
+          role: "Member"
+          organization: "Law and Policy Ad Hoc Exploratory Committee"
+
+        - date_start: "2020"
+          date_end: "2022"
+          role: "Member"
+          organization: "Admissions Committee"
+
+    - institution: "Harvard University"
+      items:
+        - date_start: "2015"
+          date_end: "2017"
+          role: "Graduate Student Coordinator"
+          organization: "Undergraduate Research Scholars Program, Institute for Quantitative Social Science"
+  
+teaching:
+  - institution: Northwestern University
+    courses:
+    - year: "2026"
+      term: Fall
+      title: Public Policy
+      level: Undergrad
+    - year: "2026"
+      term: Fall
+      title: Money in Politics
+      level: Undergrad
+    - year: "2026"
+      term: Fall
+      title: Access to Justice
+      level: Undergrad     
+    - year: "2024"
+      term: Fall
+      title: American Politics Field Seminar
+      level: Graduate
+
+    - year: "2024"
+      term: Fall
+      title: Access to Justice
+      level: Undergrad
+
+    - year: "2024"
+      term: Fall
+      title: Public Policy
+      level: Undergrad
+
+    - year: "2024"
+      term: Spring
+      title: Access to Justice
+      level: Undergrad
+
+    - year: "2024"
+      term: Spring
+      title: Public Policy
+      level: Undergrad
+
+    - year: "2022"
+      title: R Workshop
+      level: Graduate
+
+    - year: "2022"
+      term: Fall
+      title: American Politics Field Seminar
+      level: Graduate
+
+    - year: "2022"
+      term: Fall
+      title: Money in Politics
+      level: Undergrad
+
+  - institution: University of California San Diego
+    courses:
+    - year: "2021"
+      term: Fall
+      title: Policy Analysis and Social Welfare
+      level: MPP/MIA
+
+    - year: "2021"
+      term: Fall
+      title: Law and Administration
+      level: MPP/MIA
+
+    - year: "2021"
+      term: Spring
+      title: Law and Administration
+      level: MPP/MIA
+
+    - year: "2021"
+      term: Spring
+      title: Bureaucratic Politics
+      level: MPP/MIA
+
+    - year: "2021"
+      term: Winter
+      title: Interest Groups and the Policymaking Process
+      level: MPP/MIA
+      
+  - institution: Yale University
+    courses:
+      - year: "2019"
+        term: Fall
+        title: "American Mass Media: Law, Politics, and Policy"
+        level: Undergrad
+
+      - year: "2019"
+        term: Spring
+        title: Money in Politics
+        level: Undergrad
+
+
+  
+    
