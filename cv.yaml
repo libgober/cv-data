@@ -29,6 +29,10 @@ advising:
         date_end: "2027"
       
     ras:
+      - name: "Zachary Schwarz"
+        institution: "Northwestern University"
+        date_start: "2026"
+        date_end: "2026"
       - name: "Suditi Chala"
         institution: "Northwestern University"
         date_start: "2025"
