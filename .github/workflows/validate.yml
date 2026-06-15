@@ -1,0 +1,37 @@
+name: Validate CV Data
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "cv.yaml"
+      - "publications.bib"
+      - "scripts/validate.py"
+      - ".github/workflows/validate.yml"
+  pull_request:
+    paths:
+      - "cv.yaml"
+      - "publications.bib"
+      - "scripts/validate.py"
+      - ".github/workflows/validate.yml"
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout CV data
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install validation dependencies
+        run: python -m pip install PyYAML "pydantic>=2"
+
+      - name: Validate CV data
+        run: python scripts/validate.py
