@@ -453,6 +453,10 @@ presentations:
       date: "2026-11-06"
       host: "Center for Advanced Study in the Behavioral Sciences, Stanford University"
 
+    - title: "Political Economy Workshop"
+      date: "2026-08-11"
+      host: "Copenhagen Business School"
+
     - title: "American Political Economy: Foundations, Focuses, Frontiers"
       date_start: "2025-04-25"
       date_end: "2025-04-26"
@@ -528,6 +532,11 @@ presentations:
    
     
   conferences:
+    - date_start: "2026-10-16"
+      date_end: "2026-10-17"
+      host: "Columbia University"
+      title: "Understanding the American Political Economy in the Trump era"
+    
     - date: "2026-04-17"
       title: "Conference on Identity and Inequality"
       host: "Princeton University"
