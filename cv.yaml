@@ -765,6 +765,14 @@ service:
   departmental:
     - institution: "Northwestern University"
       items:
+        - date_start: "2026"
+          date_end: "2027"
+          role: "Search Committee Member"
+          organization: "Assistant Professor of Computational Methods"
+        - date_start: "2026"
+          date_end: "2027"
+          role: "Field Head"
+          organization: "Methods"
         - date_start: "2022"
           date_end: "2025"
           role: "Co-organizer"
