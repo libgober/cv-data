@@ -1,6 +1,9 @@
 advising:
   graduate: 
     current_committees:
+      - name: "Ubeydullah Ademi"
+        website: "https://ubeydullahademi.com/"
+        institution: "Northwestern University"
       - name: "Joshua Corona"
         website: "https://joshuacorona.com/"
         institution: "Northwestern University"
@@ -260,6 +263,10 @@ grants:
     source: internal
     
 invited_talks:
+  - date: "2027-03-02"
+    title: "White Shoes, Hidden Hands"
+    host: "University of Chicago, Department of Political Science"
+
   - date: "2026-03-26"
     title: "Who Governs the Association?"
     host: "Princeton University, Department of Politics"
