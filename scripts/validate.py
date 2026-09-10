@@ -70,10 +70,20 @@ class FundingItem(BaseModel):
     source: Literal["internal", "external"]
 
 
+class Presentations(BaseModel):
+    invited_talks: list[TalkItem] = Field(default_factory=list)
+    workshops: list[TalkItem] = Field(default_factory=list)
+    other: list[TalkItem] = Field(default_factory=list)
+    organizing: list[TalkItem] = Field(default_factory=list)
+    conferences: list[TalkItem] = Field(default_factory=list)
+    department: list[TalkItem] = Field(default_factory=list)
+    
 class CVData(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+    
     education: list[EducationItem] = Field(default_factory=list)
     appointments: list[AppointmentItem] = Field(default_factory=list)
-    invited_talks: list[TalkItem] = Field(default_factory=list)
+    presentations: Presentations = Field(default_factory=Presentations)
     funding: list[FundingItem] = Field(default_factory=list)
 
 
