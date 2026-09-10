@@ -79,8 +79,6 @@ class Presentations(BaseModel):
     department: list[TalkItem] = Field(default_factory=list)
     
 class CVData(BaseModel):
-    model_config = ConfigDict(extra="forbid")
-    
     education: list[EducationItem] = Field(default_factory=list)
     appointments: list[AppointmentItem] = Field(default_factory=list)
     presentations: Presentations = Field(default_factory=Presentations)
